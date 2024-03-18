@@ -1,7 +1,7 @@
 # Mentor-Student Management API
 - This repository contains the backend code for managing mentors and students using a Node.js Express server and MongoDB database.
 ## Postman documentation
--You can also see my work in this documentation (link)[https://documenter.getpostman.com/view/31934748/2sA2xpRoub]
+-You can also see my work in this documentation [link](https://documenter.getpostman.com/view/31934748/2sA2xpRoub)
 
 ## Table of Contents
 - Features
